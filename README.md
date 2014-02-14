@@ -1,6 +1,7 @@
 # Open Graph Protocol helper for PHP
 
-A small library for making accessing of Open Graph Protocol data easier
+A small library for making accessing of Open Graph Protocol data easier.
+A composer friendly fork of https://github.com/scottmac/opengraph
 
 ## Note
 Keys with a dash (-) in the name are converted to _ for easy access as a property
